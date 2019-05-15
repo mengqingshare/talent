@@ -1,3 +1,4 @@
-*_xxjson.txt  文件：json 数据，每一页都会有一个文件
+*_talent_xxjson.txt  文件：json 数据，每一页都会有一个文件
 
-*.txt 文件：最终聚合的文件，关注重点的字段，new_line 开头，@ 分割
+*talent.txt 文件：最终聚合的文件，关注重点的字段，new_line 开头，@ 分割
+

@@ -22,7 +22,7 @@ while index < totalPage :
     respItem = urllib2.urlopen(base_url+str(index))
 
     dataItem = respItem.read()
-    strFileName = "data/baidu/baidu_talent_" + str(index)  + "json_.txt"
+    strFileName = "data/baidu/baidu_talent_" + str(index)  + "_json_.txt"
     strFileNameDone = "data/baidu/baidu_talent" + ".txt"
 
     fileJson = open(strFileName,"w")

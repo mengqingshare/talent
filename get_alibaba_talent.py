@@ -33,7 +33,7 @@ while index < totalPage :
     dataItem = respItem.read()
 
     # 数据存储文件 每一页的 json 数据
-    strFileName = "data/alibaba/alibaba_talent_" + str(index)  + "json_.txt"
+    strFileName = "data/alibaba/alibaba_talent_" + str(index)  + "_json_.txt"
     # 最后的汇总数据
     strFileNameDone = "data/alibaba/alibaba_talent" + ".txt"
 
