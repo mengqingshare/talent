@@ -1,2 +1,1 @@
-# talent
-get all talent 
+获取大厂招聘官网的数据做分析
